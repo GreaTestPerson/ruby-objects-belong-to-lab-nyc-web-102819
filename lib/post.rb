@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class  Post
     attr_accessor :title, :author
     def title=(title)
@@ -11,3 +12,8 @@ class  Post
 end
 
 
+=======
+class Post 
+ 
+end
+>>>>>>> 1055afe74690feac643385492c1e8037bc7d7e64
